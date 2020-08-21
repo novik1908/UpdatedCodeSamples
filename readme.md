@@ -9,8 +9,8 @@
    
     - поворчивает эту комнату на указанный угол (угол может быть отрицательным)
  
-    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/image/primer2_1.png)
-    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/image/primer2_2.png)
+    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/images/primer2_1.png)
+    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/images/primer2_2.png)
 3. VisualizeAllCoordsInDirectoryFronmTXT.py
 
     - читает все файлы txt с координатами в указанной директории(папке)
@@ -19,13 +19,13 @@
    
     - на выбор выводит данные на консоль либо рисует получившуюся фигуру в mathplotlib
 
-    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/image/primer3.png)
+    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/images/primer3.png)
 4. VisualizeVisorCoordsFromCSV.py
 
     - снимает значения из указанного файла csv (то, что снял лидар в реальной жизни), конвертирует координаты из из радиальной системы исчисления в нормальную и выводит результат на выбор: консоль либо визуально в mathplotlib
 
-    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/image/primer4_1.png)
-    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/image/primer4_2.png)
+    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/images/primer4_1.png)
+    ![Пример работы программы 1](https://github.com/novik1908/UpdatedCodeSamples/raw/master/images/primer4_2.png)
 
 5. RealTimeRoomTracker.py
     - отслеживает положение комнаты в данный момент с определенным фреймрейтом
